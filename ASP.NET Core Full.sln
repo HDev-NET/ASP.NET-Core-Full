@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPages", "RazorPages\RazorPages.csproj", "{D21E47AF-6280-4878-86D1-F1D4D545D278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D21E47AF-6280-4878-86D1-F1D4D545D278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21E47AF-6280-4878-86D1-F1D4D545D278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21E47AF-6280-4878-86D1-F1D4D545D278}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D21E47AF-6280-4878-86D1-F1D4D545D278}.Debug|x64.Build.0 = Debug|Any CPU
+		{D21E47AF-6280-4878-86D1-F1D4D545D278}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D21E47AF-6280-4878-86D1-F1D4D545D278}.Debug|x86.Build.0 = Debug|Any CPU
+		{D21E47AF-6280-4878-86D1-F1D4D545D278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21E47AF-6280-4878-86D1-F1D4D545D278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D21E47AF-6280-4878-86D1-F1D4D545D278}.Release|x64.ActiveCfg = Release|Any CPU
+		{D21E47AF-6280-4878-86D1-F1D4D545D278}.Release|x64.Build.0 = Release|Any CPU
+		{D21E47AF-6280-4878-86D1-F1D4D545D278}.Release|x86.ActiveCfg = Release|Any CPU
+		{D21E47AF-6280-4878-86D1-F1D4D545D278}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5283FEC-3079-4E9A-8E9C-48E671699221}
+	EndGlobalSection
+EndGlobal
